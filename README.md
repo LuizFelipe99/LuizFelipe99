@@ -1,6 +1,5 @@
 ### Olá pessoal 👋
 
-Here are some ideas to get you started:
 
 - 🔭 Atualmente estou trabalhando como dev ...
 - 🌱 Atualmente estudo Angular Framework ...
