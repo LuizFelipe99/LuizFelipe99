@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente estou trabalhando como desenvolvedor ...
-- 🌱 Desenvolvedor em: <a href="https://www.edusense.com.br/">Edusense</a>
+- 🌱 Desenvolvedor Pleno em: <a href="https://www.edusense.com.br/">Edusense</a>
 - 👯 Trabalho bem em equipes ...
   
 <a href="https://www.linkedin.com/in/luiz-felipe-tomaz-6143031b2" target="_blank"><img src="https://img.shields.io/badge/%20-LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
