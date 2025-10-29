@@ -3,8 +3,10 @@
 
 - 🔭 Atualmente estou trabalhando como desenvolvedor ...
 - 🌱 Desenvolvedor em: <a href="https://www.edusense.com.br/">Edusense</a>
-- 👯 Busco sempre colaborar com as comunidades ...
-- 
+- 👯 Trabalho bem em equipes ...
+  
+<a href="www.linkedin.com/in/luiz-felipe-tomaz-6143031b2"><img src="https://img.shields.io/badge/%20-LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizFelipe99&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias do meu dia a dia
