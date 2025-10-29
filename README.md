@@ -2,10 +2,9 @@
 
 
 - 🔭 Atualmente estou trabalhando como desenvolvedor ...
-- 🌱 Desenvolvedor 
+- 🌱 Desenvolvedor em: <a href="https://www.edusense.com.br/">Edusense</a>
 - 👯 Busco sempre colaborar com as comunidades ...
-
-![LuizFelipe99 GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizFelipe99&show_icons=true&theme=radical)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizFelipe99&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizFelipe99&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias do meu dia a dia
 
