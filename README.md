@@ -5,7 +5,7 @@
 - 🌱 Desenvolvedor em: <a href="https://www.edusense.com.br/">Edusense</a>
 - 👯 Trabalho bem em equipes ...
   
-<a href="https://www.linkedin.com/in/luiz-felipe-tomaz-6143031b2" autoblank><img src="https://img.shields.io/badge/%20-LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/luiz-felipe-tomaz-6143031b2" target="_blank"><img src="https://img.shields.io/badge/%20-LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizFelipe99&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
