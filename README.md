@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente estou trabalhando como desenvolvedor ...
-- 🌱 Atualmente estuo com AngularJS ...
+- 🌱 Desenvolvedor 
 - 👯 Busco sempre colaborar com as comunidades ...
 
 ![LuizFelipe99 GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizFelipe99&show_icons=true&theme=radical)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizFelipe99&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
@@ -17,4 +17,6 @@
   <img src="hhttps://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  
 </div>
